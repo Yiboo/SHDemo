@@ -1,0 +1,23 @@
+﻿Build started 2016/1/11 20:27:07.
+     1>Project "E:\科研\PRT\Spherical Harmonic Lighting-C++\Project.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\Debug\Project.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file ".\Debug\Project.unsuccessfulbuild".
+         Touching ".\Debug\Project.lastbuildstate".
+     1>Done Building Project "E:\科研\PRT\Spherical Harmonic Lighting-C++\Project.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.26
